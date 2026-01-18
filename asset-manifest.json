@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/PnsPortfolio/static/css/main.4c432b16.css",
-    "main.js": "/PnsPortfolio/static/js/main.7c464408.js",
-    "static/js/787.7019fb0e.chunk.js": "/PnsPortfolio/static/js/787.7019fb0e.chunk.js",
+    "main.css": "/PnsPortfolio/static/css/main.4215a132.css",
+    "main.js": "/PnsPortfolio/static/js/main.9cd629a2.js",
+    "static/js/453.f54e7ee1.chunk.js": "/PnsPortfolio/static/js/453.f54e7ee1.chunk.js",
     "static/media/dev_image.png": "/PnsPortfolio/static/media/dev_image.3022cb2a1308b56376b2.png",
     "static/media/helitech_20.jpg": "/PnsPortfolio/static/media/helitech_20.aad5d45050f1d9f79594.jpg",
     "static/media/helitech_6.jpg": "/PnsPortfolio/static/media/helitech_6.eee10102ba30d643b141.jpg",
@@ -57,12 +57,12 @@
     "static/media/eclipselink-logo1.png": "/PnsPortfolio/static/media/eclipselink-logo1.2169ff93854fff458ec8.png",
     "index.html": "/PnsPortfolio/index.html",
     "static/media/oracle-icon.svg": "/PnsPortfolio/static/media/oracle-icon.f82440275d9a440182db687370714be5.svg",
-    "main.4c432b16.css.map": "/PnsPortfolio/static/css/main.4c432b16.css.map",
-    "main.7c464408.js.map": "/PnsPortfolio/static/js/main.7c464408.js.map",
-    "787.7019fb0e.chunk.js.map": "/PnsPortfolio/static/js/787.7019fb0e.chunk.js.map"
+    "main.4215a132.css.map": "/PnsPortfolio/static/css/main.4215a132.css.map",
+    "main.9cd629a2.js.map": "/PnsPortfolio/static/js/main.9cd629a2.js.map",
+    "453.f54e7ee1.chunk.js.map": "/PnsPortfolio/static/js/453.f54e7ee1.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4c432b16.css",
-    "static/js/main.7c464408.js"
+    "static/css/main.4215a132.css",
+    "static/js/main.9cd629a2.js"
   ]
 }
