@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/PnsPortfolio/static/css/main.4215a132.css",
-    "main.js": "/PnsPortfolio/static/js/main.5d5b7cc0.js",
+    "main.js": "/PnsPortfolio/static/js/main.6075d14f.js",
     "static/js/453.f54e7ee1.chunk.js": "/PnsPortfolio/static/js/453.f54e7ee1.chunk.js",
     "static/media/dev_image.png": "/PnsPortfolio/static/media/dev_image.3022cb2a1308b56376b2.png",
     "static/media/helitech_20.jpg": "/PnsPortfolio/static/media/helitech_20.aad5d45050f1d9f79594.jpg",
@@ -53,16 +53,15 @@
     "static/media/1.jpg": "/PnsPortfolio/static/media/1.fa4cc410ee47f6d99217.jpg",
     "static/media/logo_horizontal_lg_alpha.png": "/PnsPortfolio/static/media/logo_horizontal_lg_alpha.0d16beb74d7ea916f9d6.png",
     "static/media/api.png": "/PnsPortfolio/static/media/api.e4c7346382513ef47a00.png",
-    "static/media/jaspersoft.png": "/PnsPortfolio/static/media/jaspersoft.962bab78efd82373bb11.png",
     "static/media/eclipselink-logo1.png": "/PnsPortfolio/static/media/eclipselink-logo1.2169ff93854fff458ec8.png",
     "index.html": "/PnsPortfolio/index.html",
     "static/media/oracle-icon.svg": "/PnsPortfolio/static/media/oracle-icon.f82440275d9a440182db687370714be5.svg",
     "main.4215a132.css.map": "/PnsPortfolio/static/css/main.4215a132.css.map",
-    "main.5d5b7cc0.js.map": "/PnsPortfolio/static/js/main.5d5b7cc0.js.map",
+    "main.6075d14f.js.map": "/PnsPortfolio/static/js/main.6075d14f.js.map",
     "453.f54e7ee1.chunk.js.map": "/PnsPortfolio/static/js/453.f54e7ee1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4215a132.css",
-    "static/js/main.5d5b7cc0.js"
+    "static/js/main.6075d14f.js"
   ]
 }
